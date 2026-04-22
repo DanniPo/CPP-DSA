@@ -4,6 +4,7 @@
  * Each exercise solves a specific problem with console interaction.
  */
 #include <iostream>
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <cctype>
 #include <array>
